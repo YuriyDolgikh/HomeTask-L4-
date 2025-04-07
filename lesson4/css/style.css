@@ -1,0 +1,20 @@
+body{
+    margin: 30px;
+}
+.currency-list{
+    margin-left: 20px;
+}
+
+table, th, td{
+   border: 1px solid #000;  
+}
+
+.flag {
+    width: 40px;
+    height: 30px;
+    margin: 2px;
+}
+
+.rate {
+    text-align: right;
+}
